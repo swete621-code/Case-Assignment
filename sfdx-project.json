@@ -5,9 +5,8 @@
       "default": true
     }
   ],
-  "name": "CaseAssignment",
+  "name": "ticketAssignment",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "66.0",
-  "defaultLwcLanguage": "javascript"
+  "sourceApiVersion": "66.0"
 }
